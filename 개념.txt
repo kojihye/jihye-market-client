@@ -1,0 +1,15 @@
+react 설치방법
+npm install -g create-react-app
+create-react-app .
+
+This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+>> npm install tar@6 -g
+
+npm i tar
+
+* nodejs 가 최신버전일 때
+npx create-react-app cra-test
+* nodejs 가 구번전일 때
+npm install -g create-react-app 
+create-react-app cra-test
+
